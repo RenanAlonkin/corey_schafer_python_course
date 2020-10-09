@@ -1,5 +1,7 @@
 # About
-This repository contains all my studies related to the courses and contents in [Corey Schafer's Youtube channel](https://www.youtube.com/user/schafer5)
+This repository contains all my studies related to the courses and contents in [Corey Schafer's Youtube channel](https://www.youtube.com/user/schafer5).
+
+This will work perfectly for those who are looking for a first glance into python programming. 
 
 ## Content
 We've already added contents related to:
