@@ -10,7 +10,7 @@ We've already added contents related to:
   - Functions
   - Importing and Exporting Modules
   
--OOP Classes
+- OOP Classes
   - Classes, Instances and Class Variables
   - Class Methods and Static Methods
   - Inheritance
